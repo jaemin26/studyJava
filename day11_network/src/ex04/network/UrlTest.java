@@ -16,7 +16,7 @@ public class UrlTest {
 		System.out.println("질의 : " + url.getQuery());
 		System.out.println("파일명 : " + url.getFile());
 		System.out.println("참조 : " + url.getRef());
-		//
+		
 		
 	}
 
