@@ -24,6 +24,7 @@ public class BufferdReaderMain {
 		//문자열로 받은 수를 연산하기 위해 파싱 필요
 		int num = Integer.parseInt(br.readLine());
 		int num2 = Integer.parseInt(br.readLine());
+		int num3 = Integer.parseInt(br.readLine());
 		System.out.println(num+num2);
 	}
 

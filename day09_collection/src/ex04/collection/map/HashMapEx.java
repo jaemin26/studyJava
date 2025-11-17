@@ -11,7 +11,7 @@ public class HashMapEx {
 	
 	public static void main(String[] args) {
 		
-		HashMap<String, Integer> map = new HashMap();
+		HashMap<String, Integer> map = new HashMap<String, Integer>();
 		map.put("홍길동", 50);
 		map.put("손연재", 70);
 		map.put("집에", 80);
